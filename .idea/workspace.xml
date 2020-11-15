@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bca0d725-02a5-40a3-b52c-33dae32620d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rjcom-git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roc-Johnson-current.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/bad_gateway.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/bad_request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/forbidden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/internal_server_error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/maintenance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/method_not_allowed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/not_acceptable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/not_found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/not_implemented.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/precondition_failed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/proxy_authentication_required.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/request-uri_too_long.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/unauthorized.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_docs/unsupported_media_type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fav-ico.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/Muli-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/Muli/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bourdain-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/farmland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/inferno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lgmc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/default-skin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/472714963-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/473290089-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/483291049-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/541903908-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/544225670-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/598602128-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/610205932-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/vid/845840292-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo-v2-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rj2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rj3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rj5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/arrow_left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/arrow_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-alegion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-bloyalty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-brother.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-mcdog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-melrosewakefield.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-melrosewakefield2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-middle-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-nono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-sqh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-takeout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thrive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-thumbnail-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-tronix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/work-whatwas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mdb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mdb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdb-addons/mdb-lightbox-ui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mdb-addons/preloader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blog-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/blog-posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/contact-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/ecommerce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/landing-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/pricing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/profile-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/signup-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/472714963-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/473290089-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/483291049-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/541903908-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/544225670-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/598602128-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/610205932-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/845840292-640_adpp_is.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vid/HomepageVideo.mp4" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="292" column="24" selection-start-line="292" selection-start-column="24" selection-end-line="292" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/rjcom-git.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="265" />
+    <option name="y" value="48" />
+    <option name="width" value="1842" />
+    <option name="height" value="1306" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rjcom-git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rjcom-git" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bca0d725-02a5-40a3-b52c-33dae32620d0" name="Default Changelist" comment="" />
+      <created>1605478400057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605478400057</updated>
+      <workItem from="1605478401177" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="266" y="49" width="1842" height="1306" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="292" column="24" selection-start-line="292" selection-start-column="24" selection-end-line="292" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
